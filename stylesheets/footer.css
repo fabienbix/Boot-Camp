@@ -1,0 +1,35 @@
+#footer{
+	background-color: #16B3D9;
+	color:white;
+	padding:30px;
+	text-align: center;
+}
+
+#footer a{
+	font-size: 30px;
+	color:white;
+}
+
+#footer img{
+	width:50px;
+}
+
+#footer a:hover{
+	color:black;
+}
+
+#footer p{
+	font-family: open sans;
+	font-weight: lighter;
+}
+
+#footer h2{
+	font-family: varela round;
+	font-weight: lighter;
+	padding-bottom: 15px;
+}
+
+#footer_link a{
+	font-family: open sans;
+	font-weight: lighter;
+}

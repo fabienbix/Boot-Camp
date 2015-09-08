@@ -1,0 +1,13 @@
+.btn-mybutton{
+	background:#5FCF80;
+	color:white;
+	font-weight: bold;
+	padding: 15px 30px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+
+.btn-mybutton:hover{
+	color: white;
+	text-decoration: none;
+}
