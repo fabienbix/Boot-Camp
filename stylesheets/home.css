@@ -3,53 +3,29 @@
 @import url("footer.css");
 @import url("button.css");
 @import url("banner_faq.css");
+@import url("banner_afnor.css");
+@import url("overview.css");
+@import url("hubsy.css");
+@import url("references_clients.css");
+@import url("navbar.css");
+@import url("benefices.css");
+@import url("intro.css");
+@import url("theschoolbus.css");
 
-
-.navbar-transparent{
-background-color: #ECF0F1;
-}
-
-.bg-blue {
-text-align: center;
-font-family: varela round;
-font-size: 40px;
-padding: 70px 150px;
-}
-
-.bg-blue p{
-font-family: varela round;
-font-size: 20px;
-}
-
-#newsletter{
+.newsletter{
 background-color: white;
-padding:70px;
+padding:30px;
 text-align: center;
+font-family: varela round;}
+
+.newsletter h2{
+font-family: varela round;
+font-size: 20px;}
+
+#mc-embedded-subscribe input{
+background-color: yellow;
 }
 
-
-
-
-.benefices{
-	background-color: #5fcf80;
-	font-family: montserrat;
-	padding: 70px;
-}
-
-.benefices h2{
-	font-family: varela round;
-	text-align: center;}
-
-.card{
-	text-align: center;
-	background-color: white;
-	padding: 30px;
-	width: 700px;
-	margin:20px auto;
-	display: inline-block;
-	border-radius: 5px;
-	color: black;
-	box-shadow: 1px 1px 3px rgba:(200, 200, 200, 1);}
 	
 .pedagogie img{
 	width:150px;}
@@ -58,36 +34,14 @@ text-align: center;
 	text-align: center;
 }
 #certification img{
-	width: 200px;}
+	width: 300px;}
 
 .pedagogie{
 	padding:70px;
 	text-align: center;}
 
 
-.references_clients{
-	background-color: #ECF0F1;
-}
-.references_clients img{
-	width:200px;}
-.references_clients li{
-	padding:30px 30px;
-}
-.references_clients h2{
-	padding:30px;}
-.references_clients p{
-	padding:30px;}
 
-.logo{
-	background-color: white;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	width: 250px;
-	height: 180px;
-	margin:30px 10px;
-	display: inline-block;
-	border-radius: 5px;
-	box-shadow: 1px 1px 3px rgba:(200, 200, 200, 1);}
 
 
 

@@ -1,19 +1,25 @@
 #banner{
 	background-image: url("../images/background.jpg");
-	padding: 200px 0;
+	padding: 170px 10px;
 	color: white;
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
+	font-family: varela round;
+	margin-top: 0px;
 }
 
 #banner h1{
 	font-size: 65px;
-	font-family: montserrat;
+	
+}
+
+#banner h2{
+	font-size: 20px;
 }
 
 #banner p{
 	font-size: 30px;
-	font-family: open sans;
-	padding-bottom: 30px;
+	font-family: varela round;
+	margin-top: 100px;
 }

@@ -1,0 +1,25 @@
+.intro {
+font-family: varela round;
+text-align: justify;
+font-size: 40px;
+padding: 70px 180px;
+}
+
+.intro p{
+font-size: 20px;
+}
+
+.intro h3{
+font-size: 20px;
+text-align: center;
+}
+
+.pres{
+	font-family: varela round;
+	text-align: center;
+	padding: 50px;
+}
+
+.pres h4{
+	font-size: 30px;
+	color: #16B3D9;

@@ -2,12 +2,15 @@
 	background:#5FCF80;
 	color:white;
 	font-weight: bold;
-	padding: 15px 30px;
+	padding: 20px 50px;
 	border-radius: 5px;
 	font-size: 15px;
+	font-family: varela round;
+	font-size: 20px;
 }
 
 .btn-mybutton:hover{
 	color: white;
 	text-decoration: none;
+	background: #54D98C;
 }
