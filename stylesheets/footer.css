@@ -1,13 +1,13 @@
 #footer{
-	background-color: #16B3D9;
-	color:white;
+	background-color: white;
+	color: #16B3D9;
 	padding:30px;
 	text-align: center;
 }
 
 #footer a{
 	font-size: 30px;
-	color:white;
+	color: #16B3D9;
 }
 
 #footer img{
@@ -15,7 +15,7 @@
 }
 
 #footer a:hover{
-	color:#ECF0F1;
+	color:#384047;
 }
 
 #footer p{

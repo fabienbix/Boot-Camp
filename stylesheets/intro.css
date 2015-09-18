@@ -1,17 +1,18 @@
 .intro {
 font-family: varela round;
-text-align: justify;
 font-size: 40px;
-padding: 70px 180px;
+padding: 50px 180px;
 }
 
 .intro p{
 font-size: 20px;
 }
 
-.intro h3{
-font-size: 20px;
+.intro h2{
+line-height: 50px;
+font-size: 40px;
 text-align: center;
+text-align: justify;
 }
 
 .pres{
