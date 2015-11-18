@@ -1,5 +1,6 @@
 .references_clients{
-	background-color: #ECF0F1;
+	margin-top: 0px;
+	background-color:#F6F9FA;
 	padding: 50px 30px;
 }
 .references_clients img{
@@ -18,3 +19,42 @@ font-family: varela round;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	}
+
+
+.pasconvaincu{
+	background-image: url("../images/pasconvaincu.jpg");
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	font-family: varela round;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+.pasconvaincu h2{
+	color: white;
+	text-align: center;
+	font-family: varela round;
+	font-size: 60px;
+	padding: 250px;
+	}
+
+.pedagogie{
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	font-family: varela round;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 500px;
+	}
+
+.pedagogie h2{
+	color: white;
+	text-align: center;
+	font-family: varela round;
+	font-size: 55px;
+	padding: 100px;
+}

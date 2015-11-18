@@ -1,13 +1,13 @@
 #footer{
-	background-color: white;
-	color: #16B3D9;
-	padding:30px;
+	background-color: #FFFFFF;
+	color: #D3D9DD;
+	padding:20px;
 	text-align: center;
 }
 
 #footer a{
-	font-size: 30px;
-	color: #16B3D9;
+	font-size: 20px;
+	color: #D3D9DD;
 }
 
 #footer img{
@@ -15,21 +15,45 @@
 }
 
 #footer a:hover{
-	color:#384047;
+	color:#16B3D9;
 }
 
 #footer p{
-	font-family: open sans;
-	font-weight: lighter;
+	font-family: varela round;
+	font-size: 14px;
+	line-height: 25px;
 }
 
-#footer h2{
-	font-family: varela round;
-	font-weight: lighter;
-	padding-bottom: 15px;
-}
 
 #footer_link a{
-	font-family: open sans;
+	font-family: varela round;
 	font-weight: lighter;
+}
+
+.newsletter{
+background-color: #FFFFFF;
+padding:30px;
+text-align: center;
+font-family: varela round;}
+
+.newsletter h2{
+font-family: varela round;
+color: #384047;
+font-size: 18px;}
+
+
+
+
+.testimonial{
+	font-family: varela round;
+	color: #16B3D9;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-color: black;
+}
+
+.testimonial p{
+	font-size: 30px;
 }

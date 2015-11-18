@@ -1,44 +1,107 @@
-@import url("banner.css");
+@import url("1_navbar.css");
+@import url("2_banner.css");
+@import url("3_monwhy.css");
+@import url("what.css");
 @import url("before_footer.css");
 @import url("footer.css");
 @import url("button.css");
 @import url("banner_faq.css");
 @import url("banner_afnor.css");
-@import url("overview.css");
-@import url("hubsy.css");
+@import url("pourquoinous.css");
 @import url("references_clients.css");
-@import url("navbar.css");
-@import url("benefices.css");
-@import url("intro.css");
 @import url("theschoolbus.css");
+@import url("team.css");
 
-.newsletter{
-background-color: white;
-padding:30px;
-text-align: center;
-font-family: varela round;}
+.typeform-widget{
+	border-color: grey;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 55px;
+	margin-right: 55px;
+	text-align: center;
+}
 
-.newsletter h2{
-font-family: varela round;
-font-size: 20px;}
 
-#mc-embedded-subscribe input{
+.typeform{
+	background-color: grey;
+	border-color: grey;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 55px;
+	margin-right: 55px;
+	text-align: center;
+}
+
+
+
+#mc-embedded-subscribe-form btn btn-{
 background-color: yellow;
 }
 
-	
-.pedagogie img{
-	width:150px;}
 
-#certification{
-	text-align: center;
+
+
+#mc_embed_signup .btn {
+	background-color: #16B3D9;
+	border-color: #16B3D9;
 }
-#certification img{
-	width: 300px;}
 
-.pedagogie{
-	padding:70px;
-	text-align: center;}
+
+.texte p{
+	font-family: varela round;
+	font-size: 14px;
+	line-height: 25px;
+	color: 
+}
+
+.texte{
+	padding-top: 15px;
+}
+
+.texte h4{
+	font-family: varela round;
+	font-size: 18px;
+	line-height: 25px;
+	color: #384047;
+}
+
+.rectangle1{
+	background-color: #FBAEA8;
+	font-family: varela round;
+	padding: 30px;
+	margin:20px auto;
+	border-radius: 8px;
+	color: #384047;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.rectangle1 img{
+	width:60px;
+}
+
+
+.rectangle2{
+	background-color: #C1E0F5;
+	font-family: varela round;
+	padding: 30, 30px;
+	margin:20px auto;
+	border-radius: 8px;
+	color: #384047;
+}
+
+
+.rectangle3{
+	background-color: #B8F5D2;
+	font-family: varela round;
+	padding: 30px;
+	margin:20px auto;
+	border-radius: 8px;
+	color: #384047;
+}
+
+
 
 
 

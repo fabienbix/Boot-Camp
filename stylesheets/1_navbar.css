@@ -1,0 +1,28 @@
+.navbar-transparent{
+background-color: #FFFFFF;
+height: 80px;
+padding-bottom: 10px;
+padding-right: 25px;
+padding-top: 70px;
+margin-bottom: 0px;
+}
+
+.navbar-transparent img{
+width: 65px;
+padding-top: 0px;
+padding-left: 10px;
+}
+
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > p {
+  color: #16B3D9;
+}
+
+
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: #16B3D9;
+}

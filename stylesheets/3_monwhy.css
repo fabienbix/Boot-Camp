@@ -1,0 +1,60 @@
+.pres{
+	font-family: varela round;
+	text-align: center;
+	padding: 50px;
+	background-color: #F6F9FA;
+	}
+
+.pres h2{
+	font-size: 30px;
+	color: #16B3D9;
+	}
+
+.pres h3{
+	color: #384047;
+	font-size: 18px;
+	line-height: 25px;
+	padding-left: 200px;
+	padding-right: 200px;
+	}
+
+.pres p{
+	color: #576366;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	text-align: justify;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-bottom: 30px;
+	}
+
+.benefices{
+	font-family: varela round;
+	text-align: justify;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.benefices h3{
+text-align: center;
+color: #384047;	
+font-size: 18px;
+}
+
+.benefices p{
+color: #576366;
+font-size: 14px;	
+padding-bottom: 40px;
+}
+
+.carre{
+	padding-right: 40px;
+}
+
+
+
+
+
